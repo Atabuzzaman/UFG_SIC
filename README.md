@@ -2,6 +2,8 @@
 # CVPR FGVC 2025. 
 We present a real-time ultra-fine-grained surgical instrument classification system with a novel feature fusion technique to improve the accuracy and evaluated in a hospital CSSD setting.
 
+# Paper  
+[Real-Time Ultra-Fine-Grained Surgical Instrument Classification (CVPRW 2025)](https://openaccess.thecvf.com/content/CVPR2025W/FGVC/html/Atabuzzaman_Real-Time_Ultra-Fine-Grained_Surgical_Instrument_Classification_CVPRW_2025_paper.html)
 
 # Citations
 ```bibtex
