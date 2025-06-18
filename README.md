@@ -4,7 +4,8 @@ We present a real-time ultra-fine-grained surgical instrument classification sys
 
 
 # Citations
-@InProceedings{Atabuzzaman_2025_CVPR,
+```bibtex
+@InProceedings{Atabuzzaman_2025_CVPR, 
     author    = {Atabuzzaman, Md. and DiMatteo, Gino and Alomari, Hani and Tang, Chiawei and Hale, Connor and Goode, Adam E. and King, David Ryan and Thomas, Chris},
     title     = {Real-Time Ultra-Fine-Grained Surgical Instrument Classification},
     booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR) Workshops},
@@ -12,3 +13,5 @@ We present a real-time ultra-fine-grained surgical instrument classification sys
     year      = {2025},
     pages     = {2079-2088}
 }
+```
+
