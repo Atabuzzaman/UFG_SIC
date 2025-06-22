@@ -5,6 +5,9 @@ We present a real-time ultra-fine-grained surgical instrument classification sys
 # Paper  
 [Real-Time Ultra-Fine-Grained Surgical Instrument Classification (CVPRW 2025)](https://openaccess.thecvf.com/content/CVPR2025W/FGVC/html/Atabuzzaman_Real-Time_Ultra-Fine-Grained_Surgical_Instrument_Classification_CVPRW_2025_paper.html)
 
+# Datasets
+[Click here to download the datasets.](https://drive.google.com/drive/folders/1a5VyCCUCKTAQJ4Y57ZIDmf8HufVxYQiC?usp=sharing)
+
 # Citations
 ```bibtex
 @InProceedings{Atabuzzaman_2025_CVPR, 
