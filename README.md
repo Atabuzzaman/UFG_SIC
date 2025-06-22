@@ -9,6 +9,7 @@ We present a real-time ultra-fine-grained surgical instrument classification sys
 [Click here to download the datasets.](https://drive.google.com/drive/folders/1a5VyCCUCKTAQJ4Y57ZIDmf8HufVxYQiC?usp=sharing)
 
 # Citations
+If you use these datasets in your research or publication, please cite our paper.
 ```bibtex
 @InProceedings{Atabuzzaman_2025_CVPR, 
     author    = {Atabuzzaman, Md. and DiMatteo, Gino and Alomari, Hani and Tang, Chiawei and Hale, Connor and Goode, Adam E. and King, David Ryan and Thomas, Chris},
